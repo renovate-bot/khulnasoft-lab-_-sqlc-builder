@@ -4,7 +4,9 @@ go 1.20
 
 require (
 	github.com/davecgh/go-spew v1.1.1
+	github.com/khulnasoft-labs/go-version v0.0.1
 	github.com/pkg/errors v0.9.1
+	github.com/sulaiman-coder/goeventbus v0.0.0-20230711062328-f3bebf6c2ec5
 	vitess.io/vitess v0.16.2
 )
 
