@@ -9,7 +9,7 @@ require (
 	github.com/khulnasoft-labs/go-version v0.0.1
 	github.com/pkg/errors v0.9.1
 	github.com/sulaiman-coder/goeventbus v0.0.0-20230711062328-f3bebf6c2ec5
-	vitess.io/vitess v0.18.2
+	vitess.io/vitess v0.19.8
 )
 
 require (
