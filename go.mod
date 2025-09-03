@@ -2,7 +2,7 @@ module github.com/khulnasoft-labs/sqlc-builder
 
 go 1.21
 
-toolchain go1.21.5
+toolchain go1.25.1
 
 require (
 	github.com/davecgh/go-spew v1.1.1
